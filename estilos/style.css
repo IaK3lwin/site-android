@@ -98,8 +98,8 @@ nav {
         font: bold 16px Arial, Verdana, Helvetica, sans-serif;
         text-decoration: none;
         min-width: 35px;
+        word-wrap: normal;
         padding:10px;
-        padding-left: 25px;
         border-radius: 4px;
     }
     a:hover {
